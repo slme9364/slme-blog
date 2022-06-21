@@ -1,0 +1,40 @@
+languageCode: "ja"
+baseUrl: "localhost:1313"
+title: "slme blog"
+theme: "anubis"
+paginate: 10
+enableRobotsTXT: true
+hasCJKLanguage: true
+summaryLength: 200
+
+menu:
+  main:
+  - identifier: about
+    name: "About"
+    title: "About"
+    url: /about/
+    weight: 1
+  - identifier: archive
+    name: "Archive"
+    title: "Archive"
+    url: /posts/
+    weight: 2
+  - identifier: tags
+    name: "Tags"
+    url: /tags/
+    weight: 3
+
+params:
+  author: "slme"
+  email: slme@slme.me
+  avater: "images/me.png"
+  favicon: true
+  description: ""
+  dateFormat: "2006-01-02"
+  paginationSinglePost: false
+  style: auto-without-switcher
+  readMore: true
+  readNextPosts: 5
+  disableSummary: false
+  copyCodeButton: true
+
