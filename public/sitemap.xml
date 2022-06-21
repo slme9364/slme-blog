@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:1313/posts/</loc>
+    <loc>blog.slme.me/about/</loc>
+    <lastmod>2022-06-21T23:06:39+09:00</lastmod>
+  </url><url>
+    <loc>blog.slme.me/posts/</loc>
     <lastmod>2022-06-21T22:50:56+09:00</lastmod>
   </url><url>
-    <loc>localhost:1313/</loc>
+    <loc>blog.slme.me/</loc>
     <lastmod>2022-06-21T22:50:56+09:00</lastmod>
   </url><url>
-    <loc>localhost:1313/posts/hello/</loc>
+    <loc>blog.slme.me/posts/2022-06-22/</loc>
     <lastmod>2022-06-21T22:50:56+09:00</lastmod>
   </url><url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>blog.slme.me/categories/</loc>
   </url><url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>blog.slme.me/tags/</loc>
   </url>
 </urlset>

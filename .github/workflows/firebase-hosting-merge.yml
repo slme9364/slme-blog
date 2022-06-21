@@ -19,6 +19,8 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+      - name: Update submodules
+        run: git submodule update --init --recursive
       - name: build hugo pages
         run: hugo
       - name: Archive Production Artifact
