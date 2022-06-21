@@ -1,5 +1,5 @@
 languageCode: "ja"
-baseUrl: "localhost:1313"
+baseUrl: "blog.slme.me"
 title: "slme blog"
 theme: "anubis"
 paginate: 10
