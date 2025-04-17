@@ -2,10 +2,12 @@ languageCode: "ja"
 baseUrl: "https://blog.slme.me/"
 title: "slme blog"
 theme: "anubis"
-paginate: 10
 enableRobotsTXT: true
 hasCJKLanguage: true
 summaryLength: 200
+
+pagination:
+  pagerSize: 10
 
 menu:
   main:
