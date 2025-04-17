@@ -5,6 +5,7 @@ theme: "anubis"
 enableRobotsTXT: true
 hasCJKLanguage: true
 summaryLength: 200
+disqusShortName: ""
 
 pagination:
   pagerSize: 10
